@@ -1,3 +1,27 @@
+
+html, body {
+   margin:0;
+   padding: 0;
+}
+
+.header img {
+  float: left;
+  width: 90px;
+
+}
+
+.header h1 {
+  position: relative;
+  top: 15px;
+  left: 30px;
+  margin-bottom: 30px;
+}
+
+.header p {
+    position: relative;
+    left: 120px;
+}
+
 .thumbnail img {
   width: 100%;
 }
@@ -13,3 +37,6 @@
 .delete-form{
   display: inline;
 }
+
+
+/* footer */
